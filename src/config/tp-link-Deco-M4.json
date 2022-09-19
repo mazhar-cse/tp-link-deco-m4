@@ -1,0 +1,13 @@
+[
+    {
+        "log_level": "INFO",
+        "ip": "<Your DHCP Server/Main router IP>",
+        "password": "<Put your router Password here>",
+        "browser": "Chrome",
+        "browser_display": "no",
+        "execute_reboot": "yes",
+        "text_reboot": "Reboot",
+        "text_reboot_all": "REBOOT ALL",
+        "text_model": "M4R"
+    }
+]
